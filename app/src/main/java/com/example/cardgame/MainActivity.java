@@ -24,5 +24,6 @@ public class MainActivity extends AppCompatActivity {
         i1.putExtra("name", nameText.getText().toString());
         startActivity(i1);
 
+
     }
 }
